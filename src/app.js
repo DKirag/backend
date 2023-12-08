@@ -17,7 +17,7 @@ const app = express();
 app.use(cors({
    origin: [
       'http://localhost:5173',
-      'https://terfrontend.onrender.com'
+      'https://productkira.onrender.com'
    ],
    
    
